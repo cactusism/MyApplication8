@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "681980938067",
+    "firebase_url": "https://kidsapp-34ee8.firebaseio.com",
+    "project_id": "kidsapp-34ee8",
+    "storage_bucket": "kidsapp-34ee8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681980938067:android:39599bb4d1e3bb52",
+        "android_client_info": {
+          "package_name": "com.example.hailaalsultan.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681980938067-759thiomkv91bdf0dnn6e1bbe81amk7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hailaalsultan.myapplication",
+            "certificate_hash": "65996e762940fc5e1c53109b4e1158fea4095957"
+          }
+        },
+        {
+          "client_id": "681980938067-si3uldfodsipqiqju6drtfmtkp4nf1s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGVWrfvH-jCYFM7MQ6CJRisT56dDgVim4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681980938067-si3uldfodsipqiqju6drtfmtkp4nf1s8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
